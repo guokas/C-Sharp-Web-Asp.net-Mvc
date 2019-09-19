@@ -304,8 +304,8 @@ public class AES : SymmetricEncryptor
 
 # Screenshot
 
-[project](a.png)
+![project](a.png)
 
-[welcome](b.png)
+![welcome](b.png)
 
-[say](c.png)
+![say](c.png)
